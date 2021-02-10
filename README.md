@@ -12,7 +12,7 @@ To do this, we reviewed twitter data from the few weeks prior and up to the 2020
 General findings from sentiment analyis showed a trend of more positive sentiment toward Biden than Trump. While Trump did have higher quantity of related tweets, that increased activity was seen primarily in the negative sentiment category. 
 
 
-
+***Copy of original repository: https://github.com/olivedisaster/Project-2
 
 
 
